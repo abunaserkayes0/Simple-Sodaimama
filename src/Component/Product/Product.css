@@ -1,0 +1,36 @@
+.product{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin:0 10px;
+    border-right:1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+}
+.product-image img{
+    width: 200px;
+}
+.product-info{
+    min-width: 300px;
+}
+.cart-btn{
+    background-color:black;
+    color:white;
+    padding: 8px;
+    border-radius: 5px;
+    font-weight:600;
+    margin-bottom:10px;
+    cursor:pointer;
+}
+.input-container{
+    text-align: center;
+    margin:20px 0;
+}
+.input-container input{
+    width:50%;
+    padding:7px;
+    border:1px solid lightgray;
+    border-radius:5px;
+}
+.input-container input:focus{
+    outline: 0;
+}

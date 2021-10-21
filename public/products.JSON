@@ -1,0 +1,308 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "category": "Fruit",
+        "name": "Aamra",
+        "seller": "David Uddin",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": 36,
+        "star": 3,
+        "starCount": 3245,
+        "img": "https://i.ibb.co/4RKd337/Aamra.png",
+        "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_electronics_sr_pg1_1?ie=UTF8&adId=A03956601N6RBLKGAP4W1&url=https%3A%2F%2Fwww.amazon.com%2F3M-Privacy-Filter-Widescreen-Laptop%2Fdp%2FB002RL8IYK%2Fref%3Dsr_1_1%3Fs%3Delectronics%26ie%3DUTF8%26qid%3D1499124890%26sr%3D1-1-spons%26keywords%3Dlaptop%26psc%3D1&qualifier=1499124889&id=6267744216991374&widgetName=sp_atf",
+        "features": [
+            {
+                "description": "Color",
+                "value": "Light Green"
+            },
+            {
+                "description": "Weight",
+                "value": "70 gm"
+            }
+        ],
+        "price": 20,
+        "shipping": 7.99
+    },
+    {
+        "key": "B01LZ2WZGH",
+        "category": "Fruit",
+        "name": "Papaya",
+        "seller": "Manfrotto",
+        "wholePrice": "169",
+        "priceFraction": "88",
+        "stock": 55,
+        "star": 2,
+        "starCount": 2899,
+        "img": "https://i.ibb.co/tZ5d4ZT/Papaya.png",
+        "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_electronics_sr_pg1_2?ie=UTF8&adId=A04941221ULRUNSJPY1RW&url=https%3A%2F%2Fwww.amazon.com%2FManfrotto-MB-LF-WN-BP-backpack-Lifestyle%2Fdp%2FB01LZ2WZGH%2Fref%3Dsr_1_2%3Fs%3Delectronics%26ie%3DUTF8%26qid%3D1499124890%26sr%3D1-2-spons%26keywords%3Dlaptop%26psc%3D1&qualifier=1499124889&id=6267744216991374&widgetName=sp_atf",
+        "features": [],
+        "price":35,
+        "shipping": 3.99
+    },
+    {
+        "key": "B01K1IO3QW",
+        "category": "Fruit",
+        "name": "Coconut",
+        "seller": "Asadulla Uddin",
+        "wholePrice": "349",
+        "priceFraction": "99",
+        "stock": 3,
+        "star": 3,
+        "starCount": 3525,
+        "img": "https://i.ibb.co/sVJRSd2/coconut.png",
+        "url": "https://www.amazon.com/Acer-E5-575-33BM-15-6-Inch-Processor-Generation/dp/B01K1IO3QW/ref=sr_1_3?s=electronics&ie=UTF8&qid=1499124890&sr=1-3&keywords=laptop",
+        "features": [
+            {
+                "description": "Color",
+                "value": "Dark Green"
+            },
+            {
+                "description": "Weight",
+                "value": "1500 gm"
+            }
+        ],
+        "price": 50,
+        "shipping": 3.99
+    },
+    {
+        "key": "B01LD4MGY4",
+        "category": "false berry",
+        "name": "Banana-sobri",
+        "seller": "Rony Rahaman",
+        "wholePrice": "579",
+        "priceFraction": "99",
+        "stock": 49,
+        "star": 4,
+        "starCount": 4232,
+        "img": "https://i.ibb.co/55zjHHr/banana-sobri.png",
+        "url": "https://www.amazon.com/Acer-E5-575G-57D4-15-6-Inches-Notebook-i5-7200U/dp/B01LD4MGY4/ref=sr_1_4?s=electronics&ie=UTF8&qid=1499124890&sr=1-4&keywords=laptop",
+        "features": [
+            {
+                "description": "Color",
+                "value": "Dark Yellow"
+            },
+            {
+                "description": "Weight",
+                "value": "550 gm"
+            }
+        ],
+        "price": 24,
+        "shipping": 7.99
+    },
+    {
+        "key": "B01M18UZF5",
+        "category": "false berry",
+        "name": "Bananas",
+        "seller": "Jamal Uddin",
+        "wholePrice": "699",
+        "priceFraction": "00",
+        "stock": 23,
+        "star": 4,
+        "starCount": 2457,
+        "img": "https://i.ibb.co/SNfMDNS/bananas.png",
+        "url": "https://www.amazon.com/UX330UA-AH54-13-3-inch-Ultra-Slim-Processor-Fingerprint/dp/B01M18UZF5/ref=sr_1_5?s=electronics&ie=UTF8&qid=1499124890&sr=1-5&keywords=laptop",
+        "features": [
+            {
+                "description": "Color",
+                "value": "Yellow"
+            },
+            {
+                "description": "Weight",
+                "value": "330 gm"
+            }
+        ],
+        "price": 16,
+        "shipping": 3.99
+    },
+    {
+        "key": "B01DBGVB7K",
+        "category": "Fruit",
+        "name": "Red-grapes",
+        "seller": "Kamal Saha",
+        "wholePrice": 220,
+        "priceFraction": 49,
+        "stock": 54,
+        "star": 4,
+        "starCount": 2777,
+        "img": "https://i.ibb.co/xFzyJK4/red-grapes.png",
+        "url": "https://www.amazon.com/Chromebook-C202SA-YS02-Ruggedized-Resistant-Celeron/dp/B01DBGVB7K/ref=sr_1_6?s=electronics&ie=UTF8&qid=1499124890&sr=1-6&keywords=laptop",
+        "features": [
+            {
+                "description": "Color",
+                "value": "Red"
+            },
+            {
+                "description": "Weight",
+                "value": "50 gm"
+            }
+        ],
+        "price": 60,
+        "shipping": 3.99
+    },
+    {
+        "key": "B015WXL0C6",
+        "category": "Pome",
+        "name": "Green-Apple",
+        "seller": "Apple Ali",
+        "wholePrice": "848",
+        "priceFraction": "99",
+        "stock": 22,
+        "star": 4,
+        "starCount": 2830,
+        "img": "https://i.ibb.co/nLQ5DjB/green-apple.png",
+        "url": "https://www.amazon.com/Apple-MacBook-13-3-Inch-Laptop-Capitan/dp/B015WXL0C6/ref=sr_1_7?s=electronics&ie=UTF8&qid=1499124890&sr=1-7&keywords=laptop",
+        "features": [
+            {
+                "description": "Color",
+                "value": "LightGreen"
+            },
+            {
+                "description": "Weight",
+                "value": "400 gm"
+            }
+        ],
+        "price": 180,
+        "shipping": 7.99
+    },
+    {
+        "key": "B06Y4GZS9C",
+        "category": "Pome",
+        "name": "Gala-Apple",
+        "seller": "Abdur Rahim",
+        "wholePrice": "1,049",
+        "priceFraction": "99",
+        "stock": 22,
+        "star": 3,
+        "starCount": 257,
+        "img": "https://i.ibb.co/qCbYp8c/Gala-apple.png",
+        "url": "https://www.amazon.com/Acer-Predator-Helios-GeForce-G3-571-77QK/dp/B06Y4GZS9C/ref=sr_1_8?s=electronics&ie=UTF8&qid=1499124890&sr=1-8&keywords=laptop",
+        "features": [
+            {
+                "description": "Color",
+                "value": "Green"
+            },
+            {
+                "description": "Weight",
+                "value": "350 gm"
+            }
+        ],
+        "price": 150,
+        "shipping": 7.99
+    },
+    {
+        "key": "B06XJJG4PD",
+        "category": "Pome",
+        "name": "Pear-apple",
+        "seller": "Borkot ullha",
+        "wholePrice": "499",
+        "priceFraction": "00",
+        "stock": 35,
+        "star": 3,
+        "starCount": 599,
+        "img": "https://i.ibb.co/rm4MWd7/pear-apple.png",
+        "url": "https://www.amazon.com/P2540UA-AB51-business-standard-Display-Fingerprint/dp/B06XJJG4PD/ref=sr_1_9?s=electronics&ie=UTF8&qid=1499124890&sr=1-9&keywords=laptop",
+        "features": [
+            {
+                "description": "Color",
+                "value": "White"
+            },
+            {
+                "description": "Wight",
+                "value": "200 gm"
+            }
+        ],
+        "price": 200,
+        "shipping": 7.99
+    },
+    {
+        "key": "B01NBE6Y5D",
+        "category": "Fruit",
+        "name": "Pineapple",
+        "seller": "Babul Mia",
+        "wholePrice": "247",
+        "priceFraction": "98",
+        "stock": 74,
+        "star": 3,
+        "starCount": 4293,
+        "img": "https://i.ibb.co/xXg92Ky/pineapple.png",
+        "url": "https://www.amazon.com/HP-Backlit-Display-A6-7310-Quad-Core/dp/B01NBE6Y5D/ref=sr_1_10?s=electronics&ie=UTF8&qid=1499124890&sr=1-10&keywords=laptop",
+        "features": [
+            {
+                "description": "Color",
+                "value": "lightYellow"
+            },
+            {
+                "description": "Weight",
+                "value": "1000 gm"
+            }
+        ],
+        "price": 75,
+        "shipping": 7.99
+    },
+    {
+        "key": "B01J42JPJG",
+        "category": "Fruit",
+        "name": "Orange",
+        "seller": "Abul kamal",
+        "wholePrice": "279",
+        "priceFraction": "99",
+        "stock": 19,
+        "star": 4,
+        "starCount": 4646,
+        "img": "https://i.ibb.co/pwbhCXv/orange.png",
+        "url": "https://www.amazon.com/Acer-Chromebook-Convertible-11-6-Inch-CB5-132T-C1LK/dp/B01J42JPJG/ref=sr_1_11?s=electronics&ie=UTF8&qid=1499124890&sr=1-11&keywords=laptop",
+        "features": [
+            {
+                "description": "Color",
+                "value": "LightGreen"
+            },
+            {
+                "description": "Weight",
+                "value": "30 gm"
+            }
+        ],
+        "price": 120,
+        "shipping": 3.99
+    },
+    {
+        "key": "B01U42YPNM",
+        "category": "fruit",
+        "name": "Pomegranate",
+        "seller": "Mohin Uddin",
+        "wholePrice": "279",
+        "priceFraction": "99",
+        "stock": 19,
+        "star": 4,
+        "starCount": 4646,
+        "img": "https://i.ibb.co/m9tHXVm/Pomegranate.png",
+        "url": "https://www.amazon.com/Acer-Chromebook-Convertible-11-6-Inch-CB5-132T-C1LK/dp/B01J42JPJG/ref=sr_1_11?s=electronics&ie=UTF8&qid=1499124890&sr=1-11&keywords=laptop",
+        "features": [
+            {
+                "description": "Color",
+                "value": "Red"
+            },
+            {
+                "description": "Weight",
+                "value": "400 gm"
+            }
+            
+        ],
+        "price": 300,
+        "shipping": 3.99
+    }
+ 
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
